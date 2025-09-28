@@ -1,0 +1,13 @@
+.DS_Store
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+models/
+*.bin
+*.pt
+*.ckpt
+*.safetensors
+checkpoint-*/
+

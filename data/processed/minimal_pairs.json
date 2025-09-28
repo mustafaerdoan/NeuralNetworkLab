@@ -1,0 +1,5015 @@
+{
+  "minimal_pairs": [
+    {
+      "grammatical": "Some waitresses remember that driver.",
+      "ungrammatical": "Some waitresses remember that drivers.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "This blouse impressed this committee.",
+      "ungrammatical": "This blouse impressed these committee.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Robert hates that dancer.",
+      "ungrammatical": "Robert hates those dancer.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The museum is admiring many boys.",
+      "ungrammatical": "The museums is admiring many boys.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Danielle would hire those drivers.",
+      "ungrammatical": "Danielle would hire that drivers.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Jacqueline discussed those girls.",
+      "ungrammatical": "Jacqueline discussed that girls.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Tamara isn't referencing herself.",
+      "ungrammatical": "Tamara isn't referencing itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The customers flee from these dancers.",
+      "ungrammatical": "The customers flee from this dancers.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "A lot of associations do upset themselves.",
+      "ungrammatical": "A lot of associations do upset himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Naomi had found herself.",
+      "ungrammatical": "Naomi had found himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Richard bikes to those banks.",
+      "ungrammatical": "Richard bikes to that banks.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The cup tips over.",
+      "ungrammatical": "The cups tips over.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The doctor sees.",
+      "ungrammatical": "The doctors sees.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Waitresses return to that public park.",
+      "ungrammatical": "Waitresses return to those public park.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Galileo does pass that public park.",
+      "ungrammatical": "Galileo does pass those public park.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Veronica might cure these actors.",
+      "ungrammatical": "Veronica might cure these actor.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "That actress describes herself.",
+      "ungrammatical": "That actress describes itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Russell won't forget himself.",
+      "ungrammatical": "Russell won't forget itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Some window has hurt these customers.",
+      "ungrammatical": "Some window has hurt this customers.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Pamela has discussed all pedestrians.",
+      "ungrammatical": "Pamela have discussed all pedestrians.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Eva boasts about Theodore.",
+      "ungrammatical": "Eva boast about Theodore.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The committee discusses some teacher.",
+      "ungrammatical": "The committees discusses some teacher.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Naomi has attacked that senator.",
+      "ungrammatical": "Naomi has attacked that senators.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Roger did listen to himself.",
+      "ungrammatical": "Roger did listen to herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Kirsten wasn't praising herself.",
+      "ungrammatical": "Kirsten wasn't praising itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Adults worked with themselves.",
+      "ungrammatical": "Adults worked with itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Many guys clean these couches.",
+      "ungrammatical": "Many guys clean this couches.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Sherry conceals Kirsten.",
+      "ungrammatical": "Sherry conceal Kirsten.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Sonia hasn't boycotted that college campus.",
+      "ungrammatical": "Sonia hasn't boycotted that college campuses.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Carl breaks those forks.",
+      "ungrammatical": "Carl breaks that forks.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Melinda hasn't argued about herself.",
+      "ungrammatical": "Melinda hasn't argued about itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Many teenagers distracted themselves.",
+      "ungrammatical": "Many teenagers distracted herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The adult discovers Colleen.",
+      "ungrammatical": "The adults discovers Colleen.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The banks aren't profiting.",
+      "ungrammatical": "The bank aren't profiting.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Patricia was disturbing that dancer.",
+      "ungrammatical": "Patricia was disturbing those dancer.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Some teacher hugs Bradley.",
+      "ungrammatical": "Some teacher hug Bradley.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Winston Churchill is researching this newspaper article.",
+      "ungrammatical": "Winston Churchill were researching this newspaper article.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Sally wouldn't talk about herself.",
+      "ungrammatical": "Sally wouldn't talk about itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Angela concealed herself.",
+      "ungrammatical": "Angela concealed themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Julia boasted about herself.",
+      "ungrammatical": "Julia boasted about itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Steve has complained about himself.",
+      "ungrammatical": "Steve has complained about herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Christopher would aggravate these governments.",
+      "ungrammatical": "Christopher would aggravate these government.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Noah had upset that pedestrian.",
+      "ungrammatical": "Noah had upset those pedestrian.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Tiffany hasn't discovered herself.",
+      "ungrammatical": "Tiffany hasn't discovered himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Marie is investigating these teenagers.",
+      "ungrammatical": "Marie is investigating these teenager.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The guys disagree with Ellen.",
+      "ungrammatical": "The guy disagree with Ellen.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Clyde wasn't examining some newspaper article.",
+      "ungrammatical": "Clyde weren't examining some newspaper article.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Larry reveals himself.",
+      "ungrammatical": "Larry reveals itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Laura does find herself.",
+      "ungrammatical": "Laura does find himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Jeffrey visited himself.",
+      "ungrammatical": "Jeffrey visited herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Eric could think about himself.",
+      "ungrammatical": "Eric could think about herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The fork hasn't shattered.",
+      "ungrammatical": "The forks hasn't shattered.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Dawn shocked herself.",
+      "ungrammatical": "Dawn shocked itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Bethany is healing some customer.",
+      "ungrammatical": "Bethany were healing some customer.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The libraries know Becky.",
+      "ungrammatical": "The libraries knows Becky.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Tonya reveals that patient.",
+      "ungrammatical": "Tonya reveals those patient.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The guest looks like this photograph.",
+      "ungrammatical": "The guests looks like this photograph.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The pedestrians reference Charles.",
+      "ungrammatical": "The pedestrians references Charles.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Vincent won't conceal this essay.",
+      "ungrammatical": "Vincent won't conceal these essay.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Colleen forgets herself.",
+      "ungrammatical": "Colleen forgets himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Charles isn't annoying himself.",
+      "ungrammatical": "Charles isn't annoying themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Gina loves herself.",
+      "ungrammatical": "Gina loves itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Kristen praises herself.",
+      "ungrammatical": "Kristen praises himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The guys have laughed.",
+      "ungrammatical": "The guy have laughed.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Those guests haven't broken those cups.",
+      "ungrammatical": "Those guests hasn't broken those cups.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Aaron remembered himself.",
+      "ungrammatical": "Aaron remembered herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Margaret returns to Margaret.",
+      "ungrammatical": "Margaret return to Margaret.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The hospital appreciates Claire.",
+      "ungrammatical": "The hospitals appreciates Claire.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Natalie isn't selling this nose.",
+      "ungrammatical": "Natalie isn't selling this noses.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The governments describe Sonia.",
+      "ungrammatical": "The government describe Sonia.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Heather watches that guest.",
+      "ungrammatical": "Heather watches that guests.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "James isn't talking to himself.",
+      "ungrammatical": "James isn't talking to themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Those guys return to Lori.",
+      "ungrammatical": "Those guys returns to Lori.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Linda describes this play.",
+      "ungrammatical": "Linda describes these play.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Liam describes that high school.",
+      "ungrammatical": "Liam describes those high school.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Michelle works with that adult.",
+      "ungrammatical": "Michelle works with that adults.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The Impressionists walk through this cafe.",
+      "ungrammatical": "The Impressionists walk through this cafes.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The adults cook.",
+      "ungrammatical": "The adult cook.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Every dancer hasn't admired this skirt.",
+      "ungrammatical": "Every dancer hasn't admired this skirts.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Girls kiss themselves.",
+      "ungrammatical": "Girls kiss himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "George described this lady.",
+      "ungrammatical": "George described this ladies.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Victoria boasted about this play.",
+      "ungrammatical": "Victoria boasted about this plays.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The boys sigh.",
+      "ungrammatical": "The boy sigh.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Carl can't investigate those boys.",
+      "ungrammatical": "Carl can't investigate those boy.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The doctors forget these guests.",
+      "ungrammatical": "The doctor forget these guests.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "These waitresses aggravate those guests.",
+      "ungrammatical": "These waitresses aggravate those guest.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Most women referenced this guy.",
+      "ungrammatical": "Most women referenced these guy.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Marie has seen Gary.",
+      "ungrammatical": "Marie have seen Gary.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Patients skate around that restaurant.",
+      "ungrammatical": "Patients skate around that restaurants.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Becca had upset herself.",
+      "ungrammatical": "Becca had upset himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Those teachers like themselves.",
+      "ungrammatical": "Those teachers like herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Joel has known every adult.",
+      "ungrammatical": "Joel have known every adult.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Current events scare Harvard University.",
+      "ungrammatical": "Current events scares Harvard University.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Tina fires herself.",
+      "ungrammatical": "Tina fires himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Donald had worked with himself.",
+      "ungrammatical": "Donald had worked with themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Kayla flees from these cafes.",
+      "ungrammatical": "Kayla flees from these cafe.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Actors hadn't concealed themselves.",
+      "ungrammatical": "Actors hadn't concealed itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Andrew is revealing himself.",
+      "ungrammatical": "Andrew is revealing herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Most adults disgusted themselves.",
+      "ungrammatical": "Most adults disgusted himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "These casseroles disgust Kayla.",
+      "ungrammatical": "These casseroles disgusts Kayla.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The coat unfolds.",
+      "ungrammatical": "The coats unfolds.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Eric has driven to every museum.",
+      "ungrammatical": "Eric have driven to every museum.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The student breaks many couches.",
+      "ungrammatical": "The students breaks many couches.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Martin had respected himself.",
+      "ungrammatical": "Martin had respected herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The Clintons alarmed themselves.",
+      "ungrammatical": "The Clintons alarmed herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The Borgias haven't cared for those children.",
+      "ungrammatical": "The Borgias haven't cared for those child.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Stacey was questioning herself.",
+      "ungrammatical": "Stacey was questioning themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Anne had gone to these public parks.",
+      "ungrammatical": "Anne had gone to this public parks.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Jill escapes from those teachers.",
+      "ungrammatical": "Jill escapes from that teachers.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Gina has complained about herself.",
+      "ungrammatical": "Gina has complained about itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "These reports astound these waitresses.",
+      "ungrammatical": "These reports astounds these waitresses.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The dancers weren't chuckling.",
+      "ungrammatical": "The dancer weren't chuckling.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Adam hasn't brought a lot of plates.",
+      "ungrammatical": "Adam haven't brought a lot of plates.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Jane didn't notice herself.",
+      "ungrammatical": "Jane didn't notice themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The movies sound like Kayla.",
+      "ungrammatical": "The movie sound like Kayla.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Some women broke those cups.",
+      "ungrammatical": "Some women broke those cup.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The pedestrians research the legislature.",
+      "ungrammatical": "The pedestrian research the legislature.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Leslie could scare those schools.",
+      "ungrammatical": "Leslie could scare that schools.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "A print has looked like Matt.",
+      "ungrammatical": "A print have looked like Matt.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Carrie upset herself.",
+      "ungrammatical": "Carrie upset itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The customers have profited.",
+      "ungrammatical": "The customer have profited.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The association was fighting.",
+      "ungrammatical": "The associations was fighting.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Adults think about themselves.",
+      "ungrammatical": "Adults think about himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Christine was aggravating this company.",
+      "ungrammatical": "Christine was aggravating this companies.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Leslie has respected high schools.",
+      "ungrammatical": "Leslie have respected high schools.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Rose could kiss herself.",
+      "ungrammatical": "Rose could kiss himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Aaron visits himself.",
+      "ungrammatical": "Aaron visits herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Scott notices that association.",
+      "ungrammatical": "Scott notices that associations.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The actor sounds like the Clintons.",
+      "ungrammatical": "The actors sounds like the Clintons.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Nina won't mess up these banks.",
+      "ungrammatical": "Nina won't mess up this banks.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Raymond has forgotten that guy.",
+      "ungrammatical": "Raymond has forgotten that guys.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "That actor skated around this grocery store.",
+      "ungrammatical": "That actor skated around these grocery store.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The waitresses weren't insulting George.",
+      "ungrammatical": "The waitress weren't insulting George.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Patrick had cared for himself.",
+      "ungrammatical": "Patrick had cared for themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Brett has revealed himself.",
+      "ungrammatical": "Brett has revealed itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "James complained about these commentaries.",
+      "ungrammatical": "James complained about these commentary.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The Impressionists haven't escaped from themselves.",
+      "ungrammatical": "The Impressionists haven't escaped from himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "All people work with themselves.",
+      "ungrammatical": "All people work with himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The guest hasn't woken up.",
+      "ungrammatical": "The guests hasn't woken up.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Kendra flees from herself.",
+      "ungrammatical": "Kendra flees from himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Some pedestrian had worried that guest.",
+      "ungrammatical": "Some pedestrian had worried that guests.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The cat leaves.",
+      "ungrammatical": "The cats leaves.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Sheila hasn't forgotten that dancer.",
+      "ungrammatical": "Sheila hasn't forgotten that dancers.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Emily had distracted herself.",
+      "ungrammatical": "Emily had distracted themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "These doctors help themselves.",
+      "ungrammatical": "These doctors help herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Eric hasn't visited many actresses.",
+      "ungrammatical": "Eric haven't visited many actresses.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The couch chips.",
+      "ungrammatical": "The couchs chips.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Every man insulted himself.",
+      "ungrammatical": "Every man insulted itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Rhonda was shocking herself.",
+      "ungrammatical": "Rhonda was shocking himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Colleen talks to herself.",
+      "ungrammatical": "Colleen talks to itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Ruth irritated herself.",
+      "ungrammatical": "Ruth irritated itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Ellen knew herself.",
+      "ungrammatical": "Ellen knew themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The guy wasn't passing this grocery store.",
+      "ungrammatical": "The guy wasn't passing these grocery store.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "A lot of doctors exit those art galleries.",
+      "ungrammatical": "A lot of doctors exit those art gallery.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Carlos hasn't referenced himself.",
+      "ungrammatical": "Carlos hasn't referenced themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The government isn't arguing about Heidi.",
+      "ungrammatical": "The government aren't arguing about Heidi.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Deborah alarmed herself.",
+      "ungrammatical": "Deborah alarmed themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Kendra hasn't listened to that student.",
+      "ungrammatical": "Kendra hasn't listened to that students.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Dawn could love these essays.",
+      "ungrammatical": "Dawn could love these essay.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Adults hadn't hidden themselves.",
+      "ungrammatical": "Adults hadn't hidden herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Carlos hadn't questioned those universities.",
+      "ungrammatical": "Carlos hadn't questioned that universities.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Cynthia should complain about those actresses.",
+      "ungrammatical": "Cynthia should complain about those actress.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Carlos attacked himself.",
+      "ungrammatical": "Carlos attacked themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Theresa is arriving at that hospital.",
+      "ungrammatical": "Theresa is arriving at that hospitals.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Jessica has noticed herself.",
+      "ungrammatical": "Jessica has noticed itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The driver isn't thinking about Helen.",
+      "ungrammatical": "The drivers isn't thinking about Helen.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Russell isn't confusing himself.",
+      "ungrammatical": "Russell isn't confusing itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Lawrence was buying these schools.",
+      "ungrammatical": "Lawrence was buying this schools.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Florence shouldn't talk about herself.",
+      "ungrammatical": "Florence shouldn't talk about itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Some organizations shock a senator.",
+      "ungrammatical": "Some organizations shocks a senator.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Carol hasn't discussed Linda.",
+      "ungrammatical": "Carol haven't discussed Linda.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Carl had known himself.",
+      "ungrammatical": "Carl had known itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The doctors have revealed this candle.",
+      "ungrammatical": "The doctor have revealed this candle.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Stacey will know these patients.",
+      "ungrammatical": "Stacey will know these patient.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Anna had annoyed this dancer.",
+      "ungrammatical": "Anna had annoyed this dancers.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Marie might admire herself.",
+      "ungrammatical": "Marie might admire himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Those cashiers hadn't kissed themselves.",
+      "ungrammatical": "Those cashiers hadn't kissed itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "A commentary has stunned these libraries.",
+      "ungrammatical": "A commentary has stunned these library.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Derek has run around high schools.",
+      "ungrammatical": "Derek have run around high schools.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Karla could listen to herself.",
+      "ungrammatical": "Karla could listen to himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "A waiter is examining these newspaper articles.",
+      "ungrammatical": "A waiter is examining these newspaper article.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Edward descends all hills.",
+      "ungrammatical": "Edward descend all hills.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Adam returned to himself.",
+      "ungrammatical": "Adam returned to itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Eva was disturbing herself.",
+      "ungrammatical": "Eva was disturbing itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "That person hadn't bothered those girls.",
+      "ungrammatical": "That person hadn't bothered those girl.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The guy researches this brochure.",
+      "ungrammatical": "The guy researches these brochure.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Those ladies kiss those adults.",
+      "ungrammatical": "Those ladies kiss those adult.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Amy was questioning herself.",
+      "ungrammatical": "Amy was questioning themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Kenneth notices this bank.",
+      "ungrammatical": "Kenneth notices this banks.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Nicole should complain about herself.",
+      "ungrammatical": "Nicole should complain about themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "These senators have examined these stories.",
+      "ungrammatical": "These senators has examined these stories.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The ladies aren't attacking Alice.",
+      "ungrammatical": "The lady aren't attacking Alice.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The glasses weren't slipping.",
+      "ungrammatical": "The glass weren't slipping.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Larry boasts about himself.",
+      "ungrammatical": "Larry boasts about herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The people hadn't kissed those adults.",
+      "ungrammatical": "The people hadn't kissed those adult.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Most stories disagreed with themselves.",
+      "ungrammatical": "Most stories disagreed with himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Derek hadn't disgusted himself.",
+      "ungrammatical": "Derek hadn't disgusted itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Those doctors hadn't fired that lady.",
+      "ungrammatical": "Those doctors hadn't fired that ladies.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Melanie sounds like Heather.",
+      "ungrammatical": "Melanie sound like Heather.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The guy has questioned the hospital.",
+      "ungrammatical": "The guy have questioned the hospital.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Larry isn't healing himself.",
+      "ungrammatical": "Larry isn't healing themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Marie had insulted herself.",
+      "ungrammatical": "Marie had insulted himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Senators have that carriage.",
+      "ungrammatical": "Senators has that carriage.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Some water aggravated those universities.",
+      "ungrammatical": "Some water aggravated those university.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "These girls work with Meredith.",
+      "ungrammatical": "These girls works with Meredith.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Elizabeth remembers Edward.",
+      "ungrammatical": "Elizabeth remember Edward.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The ladies research that story.",
+      "ungrammatical": "The lady research that story.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Samuel visits those adults.",
+      "ungrammatical": "Samuel visits those adult.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Elizabeth wasn't working with these cashiers.",
+      "ungrammatical": "Elizabeth wasn't working with these cashier.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Ronald hurt himself.",
+      "ungrammatical": "Ronald hurt themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Patrick wears those skirts.",
+      "ungrammatical": "Patrick wear those skirts.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Winston Churchill boycotts these public parks.",
+      "ungrammatical": "Winston Churchill boycotts these public park.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The drivers haven't played.",
+      "ungrammatical": "The driver haven't played.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The cashiers have played.",
+      "ungrammatical": "The cashier have played.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Russell has scanned those essays.",
+      "ungrammatical": "Russell has scanned those essay.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The Clintons like that book.",
+      "ungrammatical": "The Clintons like those book.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Rodney was boasting about Erin.",
+      "ungrammatical": "Rodney were boasting about Erin.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Tina didn't talk about herself.",
+      "ungrammatical": "Tina didn't talk about himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Anne couldn't distract herself.",
+      "ungrammatical": "Anne couldn't distract himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Most actresses flee from themselves.",
+      "ungrammatical": "Most actresses flee from herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "A lot of waitresses scare Edward.",
+      "ungrammatical": "A lot of waitresses scares Edward.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Kristen hasn't worked with herself.",
+      "ungrammatical": "Kristen hasn't worked with itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Rachel has hugged those boys.",
+      "ungrammatical": "Rachel has hugged those boy.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The carts haven't annoyed Holly.",
+      "ungrammatical": "The carts hasn't annoyed Holly.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Douglas is passing these hospitals.",
+      "ungrammatical": "Douglas is passing this hospitals.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Museums fire Elaine.",
+      "ungrammatical": "Museums fires Elaine.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Sherry forgot that play.",
+      "ungrammatical": "Sherry forgot that plays.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Helen referenced herself.",
+      "ungrammatical": "Helen referenced himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "All ladders wouldn't annoy this girl.",
+      "ungrammatical": "All ladders wouldn't annoy this girls.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Christina can't respect herself.",
+      "ungrammatical": "Christina can't respect themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Many museums talk to this senator.",
+      "ungrammatical": "Many museums talk to these senator.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Caroline wasn't admiring herself.",
+      "ungrammatical": "Caroline wasn't admiring themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The girl grins.",
+      "ungrammatical": "The girls grins.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Samuel had cared for himself.",
+      "ungrammatical": "Samuel had cared for itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Many schools irritated themselves.",
+      "ungrammatical": "Many schools irritated itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The girl gets a job.",
+      "ungrammatical": "The girls gets a job.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Eva examines those plays.",
+      "ungrammatical": "Eva examines those play.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The actress responds.",
+      "ungrammatical": "The actresses responds.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Drivers had worn this blouse.",
+      "ungrammatical": "Drivers had worn these blouse.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Rebecca observes herself.",
+      "ungrammatical": "Rebecca observes itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Samuel had concealed himself.",
+      "ungrammatical": "Samuel had concealed themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The Borgias aren't bringing that hamster.",
+      "ungrammatical": "The Borgias aren't bringing those hamster.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Victoria hid herself.",
+      "ungrammatical": "Victoria hid himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Stephen hasn't thought about that brochure.",
+      "ungrammatical": "Stephen hasn't thought about that brochures.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Denise runs around this mall.",
+      "ungrammatical": "Denise runs around these mall.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "These hospitals insult Noah.",
+      "ungrammatical": "These hospitals insults Noah.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Jesus concealed these books.",
+      "ungrammatical": "Jesus concealed this books.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The lakes have scared that legislature.",
+      "ungrammatical": "The lakes have scared that legislatures.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Susan hadn't hired these guys.",
+      "ungrammatical": "Susan hadn't hired these guy.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Rachelle praises herself.",
+      "ungrammatical": "Rachelle praises itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Gloves can confuse that guy.",
+      "ungrammatical": "Gloves can confuse that guys.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Nancy hurt herself.",
+      "ungrammatical": "Nancy hurt itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "These children wouldn't admire themselves.",
+      "ungrammatical": "These children wouldn't admire herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Those drivers disgusts Dan.",
+      "ungrammatical": "Those drivers disgust Dan.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "That school has confused itself.",
+      "ungrammatical": "That school has confused himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Martha shocked herself.",
+      "ungrammatical": "Martha shocked itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Vincent does attack himself.",
+      "ungrammatical": "Vincent does attack itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Rhonda hasn't cleaned that coat.",
+      "ungrammatical": "Rhonda haven't cleaned that coat.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Sabrina wasn't firing Curtis.",
+      "ungrammatical": "Sabrina weren't firing Curtis.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Stephen wasn't healing this girl.",
+      "ungrammatical": "Stephen wasn't healing this girls.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The customer wasn't breaking these carts.",
+      "ungrammatical": "The customers wasn't breaking these carts.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Theodore passes the hill.",
+      "ungrammatical": "Theodore pass the hill.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Theresa tours the restaurant.",
+      "ungrammatical": "Theresa tour the restaurant.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Carol would admire those movie theaters.",
+      "ungrammatical": "Carol would admire those movie theater.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Joel has hugged himself.",
+      "ungrammatical": "Joel has hugged itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Pamela hasn't biked to those libraries.",
+      "ungrammatical": "Pamela hasn't biked to those library.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Carmen reveals herself.",
+      "ungrammatical": "Carmen reveals himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Regina isn't exploring that library.",
+      "ungrammatical": "Regina isn't exploring those library.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Carolyn shouldn't hire herself.",
+      "ungrammatical": "Carolyn shouldn't hire themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Some doctor was thinking about these photographs.",
+      "ungrammatical": "Some doctor was thinking about this photographs.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Deanna has kissed Marcus.",
+      "ungrammatical": "Deanna have kissed Marcus.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Rachelle aggravated herself.",
+      "ungrammatical": "Rachelle aggravated itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Carolyn isn't visiting herself.",
+      "ungrammatical": "Carolyn isn't visiting themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "This girl has loved herself.",
+      "ungrammatical": "This girl has loved itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The waitresses sit down.",
+      "ungrammatical": "The waitress sit down.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The teacher responds.",
+      "ungrammatical": "The teachers responds.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Marla will attack these teachers.",
+      "ungrammatical": "Marla will attack this teachers.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Joseph won't admire himself.",
+      "ungrammatical": "Joseph won't admire itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Bruce leaves these students.",
+      "ungrammatical": "Bruce leaves these student.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The guest was fixing these screens.",
+      "ungrammatical": "The guests was fixing these screens.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Most men fled from themselves.",
+      "ungrammatical": "Most men fled from itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Michael skates around that public park.",
+      "ungrammatical": "Michael skate around that public park.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The actress isn't spinning around.",
+      "ungrammatical": "The actresses isn't spinning around.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Paula is concealing Naomi.",
+      "ungrammatical": "Paula are concealing Naomi.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "That dancer wouldn't aggravate herself.",
+      "ungrammatical": "That dancer wouldn't aggravate himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The teenagers think about themselves.",
+      "ungrammatical": "The teenagers think about herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Dennis breaks those dishes.",
+      "ungrammatical": "Dennis breaks that dishes.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Alexander wasn't finding the child.",
+      "ungrammatical": "Alexander aren't finding the child.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Patricia bikes to those malls.",
+      "ungrammatical": "Patricia bikes to those mall.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Jane has shocked herself.",
+      "ungrammatical": "Jane has shocked itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The guy heals the person.",
+      "ungrammatical": "The guys heals the person.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Suzanne leaves Carlos.",
+      "ungrammatical": "Suzanne leave Carlos.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Judy would care for herself.",
+      "ungrammatical": "Judy would care for itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Amanda walks through some mountains.",
+      "ungrammatical": "Amanda walk through some mountains.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Cindy had appreciated this movie.",
+      "ungrammatical": "Cindy had appreciated these movie.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "All glasses disgust Clyde.",
+      "ungrammatical": "All glasses disgusts Clyde.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The skirt tightens.",
+      "ungrammatical": "The skirts tightens.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Alexander has all books.",
+      "ungrammatical": "Alexander have all books.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Todd has shocked Jesus.",
+      "ungrammatical": "Todd have shocked Jesus.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Heather cleans that print.",
+      "ungrammatical": "Heather cleans that prints.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The boy hasn't cured Rachelle.",
+      "ungrammatical": "The boys hasn't cured Rachelle.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The boys weren't referencing themselves.",
+      "ungrammatical": "The boys weren't referencing himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Regina was upsetting herself.",
+      "ungrammatical": "Regina was upsetting themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Rachelle wasn't astounding herself.",
+      "ungrammatical": "Rachelle wasn't astounding themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Amelia heals herself.",
+      "ungrammatical": "Amelia heals himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Naomi won't hide herself.",
+      "ungrammatical": "Naomi won't hide themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The teachers have biked to all grocery stores.",
+      "ungrammatical": "The teacher have biked to all grocery stores.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Many teenagers haven't forgotten themselves.",
+      "ungrammatical": "Many teenagers haven't forgotten herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The government has approved.",
+      "ungrammatical": "The governments has approved.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Nina hasn't arrived at that restaurant.",
+      "ungrammatical": "Nina hasn't arrived at that restaurants.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Many planes disturb that teenager.",
+      "ungrammatical": "Many planes disturb those teenager.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Tonya boasts about this patient.",
+      "ungrammatical": "Tonya boasts about this patients.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Those actors discover those waitresses.",
+      "ungrammatical": "Those actors discover those waitress.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The waitress was protesting.",
+      "ungrammatical": "The waitresses was protesting.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Noah shouldn't argue about himself.",
+      "ungrammatical": "Noah shouldn't argue about themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Waitresses drive to a lot of movie theaters.",
+      "ungrammatical": "Waitresses drives to a lot of movie theaters.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Many actors are boring themselves.",
+      "ungrammatical": "Many actors are boring himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Amy has helped herself.",
+      "ungrammatical": "Amy has helped itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The senators drop by these art galleries.",
+      "ungrammatical": "The senators drop by this art galleries.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "All stairs don't disgust these libraries.",
+      "ungrammatical": "All stairs don't disgust these library.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Sharon isn't investigating herself.",
+      "ungrammatical": "Sharon isn't investigating himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Christina hasn't hired herself.",
+      "ungrammatical": "Christina hasn't hired himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The student goes to this high school.",
+      "ungrammatical": "The students goes to this high school.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The Borgias are biking to these college campuses.",
+      "ungrammatical": "The Borgias are biking to these college campus.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Renee was referencing herself.",
+      "ungrammatical": "Renee was referencing itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Paula was listening to those drivers.",
+      "ungrammatical": "Paula was listening to those driver.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Some actors shock themselves.",
+      "ungrammatical": "Some actors shock herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The ladies haven't examined a lot of movies.",
+      "ungrammatical": "The lady haven't examined a lot of movies.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Maria is running around a college campus.",
+      "ungrammatical": "Maria are running around a college campus.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The drivers have admired some movie theater.",
+      "ungrammatical": "The driver have admired some movie theater.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The girl scans that newspaper article.",
+      "ungrammatical": "The girls scans that newspaper article.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The Borgias messed up that public park.",
+      "ungrammatical": "The Borgias messed up those public park.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Those ladies weren't talking to themselves.",
+      "ungrammatical": "Those ladies weren't talking to itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The adult gets fired.",
+      "ungrammatical": "The adults gets fired.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Janice fixes those cups.",
+      "ungrammatical": "Janice fixes that cups.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Stacy had referenced those plays.",
+      "ungrammatical": "Stacy had referenced those play.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Erin wasn't listening to those teachers.",
+      "ungrammatical": "Erin wasn't listening to those teacher.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The teenager nods.",
+      "ungrammatical": "The teenagers nods.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "These men reveal those pamphlets.",
+      "ungrammatical": "These men reveal that pamphlets.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Florence criticizes herself.",
+      "ungrammatical": "Florence criticizes himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The guest hasn't dropped by every glacier.",
+      "ungrammatical": "The guests hasn't dropped by every glacier.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Tara hasn't cured herself.",
+      "ungrammatical": "Tara hasn't cured themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Those ladies exit these schools.",
+      "ungrammatical": "Those ladies exit these school.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The children tour that bank.",
+      "ungrammatical": "The child tour that bank.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Some boy might cure that guy.",
+      "ungrammatical": "Some boy might cure those guy.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "A lot of actresses were attacking themselves.",
+      "ungrammatical": "A lot of actresses were attacking itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "All women hadn't lifted those eyes.",
+      "ungrammatical": "All women hadn't lifted that eyes.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Jennifer is concealing herself.",
+      "ungrammatical": "Jennifer is concealing themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The paintings look like many socks.",
+      "ungrammatical": "The paintings looks like many socks.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "These students didn't disagree with those children.",
+      "ungrammatical": "These students didn't disagree with those child.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The waitress did drop by those schools.",
+      "ungrammatical": "The waitress did drop by that schools.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The actresses have discovered the snake.",
+      "ungrammatical": "The actress have discovered the snake.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Sara is boycotting some mall.",
+      "ungrammatical": "Sara are boycotting some mall.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Victoria breaks a bike.",
+      "ungrammatical": "Victoria break a bike.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "A library alarms itself.",
+      "ungrammatical": "A library alarms themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Amelia loves this waiter.",
+      "ungrammatical": "Amelia loves this waiters.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Wendy wasn't selling most hills.",
+      "ungrammatical": "Wendy weren't selling most hills.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The dancers irritate Emily.",
+      "ungrammatical": "The dancer irritate Emily.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "A senator isn't taking most pants.",
+      "ungrammatical": "A senator aren't taking most pants.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Raymond tours closets.",
+      "ungrammatical": "Raymond tour closets.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Brenda had noticed this couch.",
+      "ungrammatical": "Brenda had noticed these couch.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "These children drop by a lot of banks.",
+      "ungrammatical": "These children drops by a lot of banks.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Dennis returns to those banks.",
+      "ungrammatical": "Dennis returns to that banks.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The companies aren't coping.",
+      "ungrammatical": "The company aren't coping.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Theodore has healed these hamsters.",
+      "ungrammatical": "Theodore has healed this hamsters.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The actors were smiling.",
+      "ungrammatical": "The actor were smiling.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "This cashier isn't wearing that skirt.",
+      "ungrammatical": "This cashier isn't wearing that skirts.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Catherine was curing herself.",
+      "ungrammatical": "Catherine was curing itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The guys are firing Jerry.",
+      "ungrammatical": "The guy are firing Jerry.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "All customers hide themselves.",
+      "ungrammatical": "All customers hide itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Angela had disliked herself.",
+      "ungrammatical": "Angela had disliked himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "A lot of teachers had talked about themselves.",
+      "ungrammatical": "A lot of teachers had talked about herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Benjamin is firing himself.",
+      "ungrammatical": "Benjamin is firing itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Steven respected those doctors.",
+      "ungrammatical": "Steven respected that doctors.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Walter could know himself.",
+      "ungrammatical": "Walter could know themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Lawrence bought that glove.",
+      "ungrammatical": "Lawrence bought those glove.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Maria thought about herself.",
+      "ungrammatical": "Maria thought about themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The legislatures were clashing.",
+      "ungrammatical": "The legislature were clashing.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Alan hadn't confused these libraries.",
+      "ungrammatical": "Alan hadn't confused this libraries.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Many girls escaped from themselves.",
+      "ungrammatical": "Many girls escaped from herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The shoe loosens.",
+      "ungrammatical": "The shoes loosens.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The Impressionists distracted themselves.",
+      "ungrammatical": "The Impressionists distracted himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Karen has questioned that waitress.",
+      "ungrammatical": "Karen have questioned that waitress.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "These guests break those glasses.",
+      "ungrammatical": "These guests break that glasses.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Phillip revealed himself.",
+      "ungrammatical": "Phillip revealed themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Christopher reveals Maria.",
+      "ungrammatical": "Christopher reveal Maria.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The guests move.",
+      "ungrammatical": "The guest move.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Mark hasn't cleaned the spotlight.",
+      "ungrammatical": "Mark haven't cleaned the spotlight.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Angela references these teachers.",
+      "ungrammatical": "Angela references these teacher.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The legislature has insulted this bank.",
+      "ungrammatical": "The legislatures has insulted this bank.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Some driver fixed this glass.",
+      "ungrammatical": "Some driver fixed these glass.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Renee hasn't hurt herself.",
+      "ungrammatical": "Renee hasn't hurt themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "A lot of girls examined those essays.",
+      "ungrammatical": "A lot of girls examined those essay.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Those children could think about themselves.",
+      "ungrammatical": "Those children could think about itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The pedestrian has returned to Homer.",
+      "ungrammatical": "The pedestrians has returned to Homer.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Melissa hadn't discussed herself.",
+      "ungrammatical": "Melissa hadn't discussed themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Kendra wasn't thinking about herself.",
+      "ungrammatical": "Kendra wasn't thinking about themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Douglas healed himself.",
+      "ungrammatical": "Douglas healed herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Jessica hadn't cleaned these hospitals.",
+      "ungrammatical": "Jessica hadn't cleaned these hospital.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "A committee confuses Gina.",
+      "ungrammatical": "A committee confuse Gina.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "That cucumber does embarrass those legislatures.",
+      "ungrammatical": "That cucumber does embarrass those legislature.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Debra criticized herself.",
+      "ungrammatical": "Debra criticized itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Joel approaches these actresses.",
+      "ungrammatical": "Joel approaches this actresses.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Meredith cleans this dish.",
+      "ungrammatical": "Meredith cleans these dish.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Diana describes herself.",
+      "ungrammatical": "Diana describes himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Those senators mess up every glass.",
+      "ungrammatical": "Those senators messes up every glass.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The adult is departing.",
+      "ungrammatical": "The adults is departing.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Amy messes up these restaurants.",
+      "ungrammatical": "Amy messes up these restaurant.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Julia referenced herself.",
+      "ungrammatical": "Julia referenced itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Elizabeth explores all restaurants.",
+      "ungrammatical": "Elizabeth explore all restaurants.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Rebecca had noticed this student.",
+      "ungrammatical": "Rebecca had noticed this students.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "A lot of students run around those college campuses.",
+      "ungrammatical": "A lot of students run around that college campuses.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Alicia returned to those students.",
+      "ungrammatical": "Alicia returned to that students.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "This cilantro isn't embarrassing those ladies.",
+      "ungrammatical": "This cilantro isn't embarrassing that ladies.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "All governments are confusing a hospital.",
+      "ungrammatical": "All governments is confusing a hospital.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The doctor is revealing Tina.",
+      "ungrammatical": "The doctors is revealing Tina.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Bradley should explore this high school.",
+      "ungrammatical": "Bradley should explore this high schools.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "David hasn't attacked Alicia.",
+      "ungrammatical": "David haven't attacked Alicia.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Sally hasn't known that waitress.",
+      "ungrammatical": "Sally hasn't known that waitresses.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The dancers flee from themselves.",
+      "ungrammatical": "The dancers flee from himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "April isn't complaining about herself.",
+      "ungrammatical": "April isn't complaining about himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "William had admired himself.",
+      "ungrammatical": "William had admired herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Most universities aren't scaring themselves.",
+      "ungrammatical": "Most universities aren't scaring herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Erin has described this school.",
+      "ungrammatical": "Erin has described these school.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The ladies haven't fled from Pamela.",
+      "ungrammatical": "The lady haven't fled from Pamela.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Kendra disturbed herself.",
+      "ungrammatical": "Kendra disturbed himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "This ladder annoys Paula.",
+      "ungrammatical": "This ladder annoy Paula.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Many actors haven't listened to themselves.",
+      "ungrammatical": "Many actors haven't listened to himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "A girl couldn't reveal herself.",
+      "ungrammatical": "A girl couldn't reveal himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Every person isn't driving to that college campus.",
+      "ungrammatical": "Every person isn't driving to those college campus.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The actors love Suzanne.",
+      "ungrammatical": "The actor love Suzanne.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The essays have hurt Florence.",
+      "ungrammatical": "The essay have hurt Florence.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Daniel hasn't fired himself.",
+      "ungrammatical": "Daniel hasn't fired itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The governments distract Suzanne.",
+      "ungrammatical": "The government distract Suzanne.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Those dancers escape from those pedestrians.",
+      "ungrammatical": "Those dancers escape from that pedestrians.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Those waiters watch themselves.",
+      "ungrammatical": "Those waiters watch himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The patient hasn't spoken up.",
+      "ungrammatical": "The patients hasn't spoken up.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Jane admires some cashiers.",
+      "ungrammatical": "Jane admire some cashiers.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Bill is discovering himself.",
+      "ungrammatical": "Bill is discovering themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Margaret won't heal herself.",
+      "ungrammatical": "Margaret won't heal himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "That wheelbarrow isn't looking like most pictures.",
+      "ungrammatical": "That wheelbarrow weren't looking like most pictures.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The libraries haven't answered.",
+      "ungrammatical": "The library haven't answered.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Jodi has found this patient.",
+      "ungrammatical": "Jodi has found these patient.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The students perform.",
+      "ungrammatical": "The student perform.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "A lot of girls weren't shocking themselves.",
+      "ungrammatical": "A lot of girls weren't shocking herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The boys flee from Marcus.",
+      "ungrammatical": "The boy flee from Marcus.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Rachelle hadn't fired those actors.",
+      "ungrammatical": "Rachelle hadn't fired that actors.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Deborah hasn't remembered herself.",
+      "ungrammatical": "Deborah hasn't remembered itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Roger climbs up many ladders.",
+      "ungrammatical": "Roger climb up many ladders.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Kenneth was visiting himself.",
+      "ungrammatical": "Kenneth was visiting themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The pedestrian has forgotten Grace.",
+      "ungrammatical": "The pedestrian have forgotten Grace.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Carol insults herself.",
+      "ungrammatical": "Carol insults itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Every unicycle is impressing that teacher.",
+      "ungrammatical": "Every unicycle is impressing those teacher.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Nancy had aggravated those drivers.",
+      "ungrammatical": "Nancy had aggravated those driver.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Benjamin references Donald.",
+      "ungrammatical": "Benjamin reference Donald.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The drivers haven't murmured.",
+      "ungrammatical": "The driver haven't murmured.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "These stories sound like this guest.",
+      "ungrammatical": "These stories sound like these guest.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "All girls scared themselves.",
+      "ungrammatical": "All girls scared himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Some movie was disagreeing with itself.",
+      "ungrammatical": "Some movie was disagreeing with herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Sheila is boasting about herself.",
+      "ungrammatical": "Sheila is boasting about themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Some teenagers have passed some glacier.",
+      "ungrammatical": "Some teenagers has passed some glacier.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Lori disgusted herself.",
+      "ungrammatical": "Lori disgusted itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Liam notices some skirts.",
+      "ungrammatical": "Liam notice some skirts.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Those pedestrians aren't healing themselves.",
+      "ungrammatical": "Those pedestrians aren't healing herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Jodi left herself.",
+      "ungrammatical": "Jodi left themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "This person doesn't bring those cups.",
+      "ungrammatical": "This person doesn't bring that cups.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Spain was describing those actors.",
+      "ungrammatical": "Spain was describing those actor.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Michelle is researching an essay.",
+      "ungrammatical": "Michelle were researching an essay.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Candles hadn't disgusted those universities.",
+      "ungrammatical": "Candles hadn't disgusted that universities.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "That snake has broken a bicycle.",
+      "ungrammatical": "That snake have broken a bicycle.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Holly descends ladders.",
+      "ungrammatical": "Holly descend ladders.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Peter worried himself.",
+      "ungrammatical": "Peter worried themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Alexander has climbed down the mountains.",
+      "ungrammatical": "Alexander have climbed down the mountains.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Debra is disgusting herself.",
+      "ungrammatical": "Debra is disgusting itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Walter hasn't loved every play.",
+      "ungrammatical": "Walter haven't loved every play.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Teenagers don't reference those girls.",
+      "ungrammatical": "Teenagers don't reference that girls.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The legislature embarrasses some universities.",
+      "ungrammatical": "The legislatures embarrasses some universities.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The organizations retaliate.",
+      "ungrammatical": "The organization retaliate.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Deanna couldn't kiss herself.",
+      "ungrammatical": "Deanna couldn't kiss himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Danielle is climbing up the mountain.",
+      "ungrammatical": "Danielle were climbing up the mountain.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Alice is impressing herself.",
+      "ungrammatical": "Alice is impressing itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Scott isn't buying some pie.",
+      "ungrammatical": "Scott weren't buying some pie.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The Lutherans astounds these pedestrians.",
+      "ungrammatical": "The Lutherans astounds these pedestrian.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The legislature insults Meredith.",
+      "ungrammatical": "The legislatures insults Meredith.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Elizabeth was boasting about Paul.",
+      "ungrammatical": "Elizabeth are boasting about Paul.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The customers aren't boring Raymond.",
+      "ungrammatical": "The customer aren't boring Raymond.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The rug hasn't disappeared.",
+      "ungrammatical": "The rugs hasn't disappeared.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "That patient has confused Daniel.",
+      "ungrammatical": "That patient have confused Daniel.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Charles wouldn't argue about these pedestrians.",
+      "ungrammatical": "Charles wouldn't argue about these pedestrian.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Kimberley approaches Carl.",
+      "ungrammatical": "Kimberley approach Carl.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The actor isn't attacking Rhonda.",
+      "ungrammatical": "The actors isn't attacking Rhonda.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Carol has complained about music.",
+      "ungrammatical": "Carol have complained about music.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Guy has walked through a bank.",
+      "ungrammatical": "Guy have walked through a bank.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Actors go to most grocery stores.",
+      "ungrammatical": "Actors goes to most grocery stores.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The student jokes around.",
+      "ungrammatical": "The students jokes around.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The teenager walks through that river.",
+      "ungrammatical": "The teenagers walks through that river.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "All mirrors disgust Suzanne.",
+      "ungrammatical": "All mirrors disgusts Suzanne.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "An actress has insulted Kirsten.",
+      "ungrammatical": "An actress have insulted Kirsten.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The guest performs.",
+      "ungrammatical": "The guests performs.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Most pedestrians aren't referencing themselves.",
+      "ungrammatical": "Most pedestrians aren't referencing herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "This senator might boycott that restaurant.",
+      "ungrammatical": "This senator might boycott that restaurants.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Brett isn't alarming himself.",
+      "ungrammatical": "Brett isn't alarming itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "All hospitals resemble a lot of drawings.",
+      "ungrammatical": "All hospitals resembles a lot of drawings.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The customers wash.",
+      "ungrammatical": "The customer wash.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "All drivers would praise themselves.",
+      "ungrammatical": "All drivers would praise herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Rugs astound that association.",
+      "ungrammatical": "Rugs astound that associations.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Clyde has hated himself.",
+      "ungrammatical": "Clyde has hated themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Bradley loves all documentaries.",
+      "ungrammatical": "Bradley love all documentaries.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Pamela could confuse herself.",
+      "ungrammatical": "Pamela could confuse themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The company jokes around.",
+      "ungrammatical": "The companies jokes around.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Some people are talking about themselves.",
+      "ungrammatical": "Some people are talking about itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Rebecca complained about that brochure.",
+      "ungrammatical": "Rebecca complained about that brochures.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The teacher hasn't disappeared.",
+      "ungrammatical": "The teachers hasn't disappeared.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Eric returned to himself.",
+      "ungrammatical": "Eric returned to herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Beth had upset herself.",
+      "ungrammatical": "Beth had upset themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The guy shouts.",
+      "ungrammatical": "The guys shouts.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Cashiers are helping themselves.",
+      "ungrammatical": "Cashiers are helping itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Many prints were looking like these rugs.",
+      "ungrammatical": "Many prints were looking like this rugs.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The legislatures haven't worried.",
+      "ungrammatical": "The legislature haven't worried.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Meredith hasn't cured these customers.",
+      "ungrammatical": "Meredith hasn't cured this customers.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Grace complains about these movies.",
+      "ungrammatical": "Grace complains about these movie.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Most glasses scare Martin.",
+      "ungrammatical": "Most glasses scares Martin.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "These boys aren't lifting those projectors.",
+      "ungrammatical": "These boys wasn't lifting those projectors.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "A lot of students won't fire themselves.",
+      "ungrammatical": "A lot of students won't fire herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Martin sounds like those dancers.",
+      "ungrammatical": "Martin sounds like those dancer.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The boys haven't forgotten Alan.",
+      "ungrammatical": "The boy haven't forgotten Alan.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Most actresses conceal that cafe.",
+      "ungrammatical": "Most actresses conceal those cafe.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Marla might visit herself.",
+      "ungrammatical": "Marla might visit themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Lori hasn't returned to these movie theaters.",
+      "ungrammatical": "Lori hasn't returned to these movie theater.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Rachel knew this girl.",
+      "ungrammatical": "Rachel knew these girl.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Heidi questions Deborah.",
+      "ungrammatical": "Heidi question Deborah.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The adults have fled from all dancers.",
+      "ungrammatical": "The adult have fled from all dancers.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Florence wouldn't question herself.",
+      "ungrammatical": "Florence wouldn't question themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Martin sees these children.",
+      "ungrammatical": "Martin sees this children.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The banks dislike themselves.",
+      "ungrammatical": "The banks dislike herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Carmen hasn't seen some senators.",
+      "ungrammatical": "Carmen haven't seen some senators.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Keith hugs these senators.",
+      "ungrammatical": "Keith hug these senators.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The boy appreciates most children.",
+      "ungrammatical": "The boys appreciates most children.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Jason helped himself.",
+      "ungrammatical": "Jason helped itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The associations have testified.",
+      "ungrammatical": "The association have testified.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Many teachers kissed themselves.",
+      "ungrammatical": "Many teachers kissed herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Melinda concealed herself.",
+      "ungrammatical": "Melinda concealed themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The snakes ascend these steps.",
+      "ungrammatical": "The snake ascend these steps.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The actor hides.",
+      "ungrammatical": "The actors hides.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The senators were scanning these books.",
+      "ungrammatical": "The senator were scanning these books.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Doctors flee from themselves.",
+      "ungrammatical": "Doctors flee from himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Deborah should flee from herself.",
+      "ungrammatical": "Deborah should flee from himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "All actors will dislike themselves.",
+      "ungrammatical": "All actors will dislike itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "These cashiers had concealed themselves.",
+      "ungrammatical": "These cashiers had concealed himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The Clintons wouldn't kiss themselves.",
+      "ungrammatical": "The Clintons wouldn't kiss itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Jacqueline hadn't concealed herself.",
+      "ungrammatical": "Jacqueline hadn't concealed itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The teenagers weren't going to some mall.",
+      "ungrammatical": "The teenager weren't going to some mall.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The waitress hasn't sounded like that customer.",
+      "ungrammatical": "The waitresses hasn't sounded like that customer.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Martha hadn't argued about herself.",
+      "ungrammatical": "Martha hadn't argued about themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Ella has approached these actresses.",
+      "ungrammatical": "Ella has approached this actresses.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Dennis wasn't concealing that customer.",
+      "ungrammatical": "Dennis wasn't concealing those customer.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The children were flirting.",
+      "ungrammatical": "The child were flirting.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Those actresses aren't escaping from these drivers.",
+      "ungrammatical": "Those actresses aren't escaping from these driver.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Janet had hired herself.",
+      "ungrammatical": "Janet had hired themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The Impressionists conceal these dancers.",
+      "ungrammatical": "The Impressionists conceal these dancer.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Renee was breaking that glass.",
+      "ungrammatical": "Renee was breaking that glasses.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Michael can't disturb himself.",
+      "ungrammatical": "Michael can't disturb themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Paul cleans those pictures.",
+      "ungrammatical": "Paul clean those pictures.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The girl is kissing herself.",
+      "ungrammatical": "The girl is kissing themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Some legislature forgets Janice.",
+      "ungrammatical": "Some legislature forget Janice.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The dress twists.",
+      "ungrammatical": "The dresses twists.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Alan had boasted about those girls.",
+      "ungrammatical": "Alan had boasted about those girl.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "These boys bike to the Great Lakes.",
+      "ungrammatical": "These boys bikes to the Great Lakes.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Renee hasn't cured Jacqueline.",
+      "ungrammatical": "Renee haven't cured Jacqueline.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The guests interact.",
+      "ungrammatical": "The guest interact.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Denise bought those prints.",
+      "ungrammatical": "Denise bought those print.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The actors know themselves.",
+      "ungrammatical": "The actors know itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Edward had distracted himself.",
+      "ungrammatical": "Edward had distracted themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Chad kisses himself.",
+      "ungrammatical": "Chad kisses herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The pedestrian is driving to this lake.",
+      "ungrammatical": "The pedestrian are driving to this lake.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Steve fires himself.",
+      "ungrammatical": "Steve fires itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Ellen will look like those prints.",
+      "ungrammatical": "Ellen will look like those print.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Andrew did sell this cup.",
+      "ungrammatical": "Andrew did sell these cup.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Nancy hasn't found Danielle.",
+      "ungrammatical": "Nancy haven't found Danielle.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The students conceal all icicles.",
+      "ungrammatical": "The student conceal all icicles.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Kimberley worried this museum.",
+      "ungrammatical": "Kimberley worried this museums.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Jennifer concealed those cups.",
+      "ungrammatical": "Jennifer concealed those cup.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The couches fall apart.",
+      "ungrammatical": "The couch fall apart.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Stephanie talked to those cashiers.",
+      "ungrammatical": "Stephanie talked to those cashier.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Leslie aggravated herself.",
+      "ungrammatical": "Leslie aggravated itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Laurie has described herself.",
+      "ungrammatical": "Laurie has described themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Deborah can't conceal herself.",
+      "ungrammatical": "Deborah can't conceal themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Some children were healing these students.",
+      "ungrammatical": "Some children were healing these student.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Patricia notices these banks.",
+      "ungrammatical": "Patricia notices this banks.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The library hasn't fired Melinda.",
+      "ungrammatical": "The libraries hasn't fired Melinda.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The pedestrian healed this guest.",
+      "ungrammatical": "The pedestrian healed this guests.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Nancy wouldn't describe that driver.",
+      "ungrammatical": "Nancy wouldn't describe that drivers.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Suzanne would irritate herself.",
+      "ungrammatical": "Suzanne would irritate itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The waiters aren't approving.",
+      "ungrammatical": "The waiter aren't approving.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Stacy didn't remember herself.",
+      "ungrammatical": "Stacy didn't remember themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Carla hasn't praised herself.",
+      "ungrammatical": "Carla hasn't praised himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Some dancer disagrees with these newspaper articles.",
+      "ungrammatical": "Some dancer disagrees with this newspaper articles.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Richard hadn't bored himself.",
+      "ungrammatical": "Richard hadn't bored herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Ruth hasn't known that pedestrian.",
+      "ungrammatical": "Ruth hasn't known that pedestrians.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Tiffany hires Monica.",
+      "ungrammatical": "Tiffany hire Monica.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Sherry does observe herself.",
+      "ungrammatical": "Sherry does observe themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "A lot of drivers do boast about themselves.",
+      "ungrammatical": "A lot of drivers do boast about herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Some adults flee from Jason.",
+      "ungrammatical": "Some adults flees from Jason.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Dana impressed herself.",
+      "ungrammatical": "Dana impressed themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Ella shouldn't listen to herself.",
+      "ungrammatical": "Ella shouldn't listen to themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The Clintons ran around this public park.",
+      "ungrammatical": "The Clintons ran around this public parks.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "This actress listened to these guests.",
+      "ungrammatical": "This actress listened to this guests.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "These rugs bore that guest.",
+      "ungrammatical": "These rugs bore that guests.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Richard hasn't alarmed himself.",
+      "ungrammatical": "Richard hasn't alarmed themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "A teacher annoyed those senators.",
+      "ungrammatical": "A teacher annoyed those senator.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The Impressionists return to that lady.",
+      "ungrammatical": "The Impressionists return to those lady.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "These students aren't aggravating themselves.",
+      "ungrammatical": "These students aren't aggravating itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Noah would conceal himself.",
+      "ungrammatical": "Noah would conceal themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "These boys attack these teachers.",
+      "ungrammatical": "These boys attack these teacher.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Guests should see that girl.",
+      "ungrammatical": "Guests should see those girl.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Bruce found himself.",
+      "ungrammatical": "Bruce found themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Theresa isn't healing herself.",
+      "ungrammatical": "Theresa isn't healing itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The shirts are soaking.",
+      "ungrammatical": "The shirt are soaking.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Adam doesn't escape from himself.",
+      "ungrammatical": "Adam doesn't escape from herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The ladies weren't criticizing a lot of museums.",
+      "ungrammatical": "The lady weren't criticizing a lot of museums.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Paula was arguing about herself.",
+      "ungrammatical": "Paula was arguing about himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "All apples aggravate this waiter.",
+      "ungrammatical": "All apples aggravate these waiter.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Brian hadn't worried himself.",
+      "ungrammatical": "Brian hadn't worried herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Julia thinks about herself.",
+      "ungrammatical": "Julia thinks about himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "All customers discover those waiters.",
+      "ungrammatical": "All customers discover that waiters.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The university negotiates.",
+      "ungrammatical": "The universities negotiates.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Many teenagers hadn't found themselves.",
+      "ungrammatical": "Many teenagers hadn't found itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Teresa has insulted that cashier.",
+      "ungrammatical": "Teresa has insulted those cashier.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Many committees forget those dancers.",
+      "ungrammatical": "Many committees forget that dancers.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The hamster scares Rhonda.",
+      "ungrammatical": "The hamsters scares Rhonda.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Scott was noticing that lady.",
+      "ungrammatical": "Scott was noticing those lady.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Tonya hasn't arrived at that hospital.",
+      "ungrammatical": "Tonya hasn't arrived at those hospital.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The actor mutters.",
+      "ungrammatical": "The actors mutters.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Most bikes haven't hurt those adults.",
+      "ungrammatical": "Most bikes haven't hurt that adults.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Susan shouldn't criticize herself.",
+      "ungrammatical": "Susan shouldn't criticize himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The university hires Theodore.",
+      "ungrammatical": "The universities hires Theodore.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The associations reference Paula.",
+      "ungrammatical": "The association reference Paula.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Connie remembers Deanna.",
+      "ungrammatical": "Connie remember Deanna.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Most children examine this pamphlet.",
+      "ungrammatical": "Most children examine this pamphlets.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Carl broke that glass.",
+      "ungrammatical": "Carl broke those glass.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Diane had concealed herself.",
+      "ungrammatical": "Diane had concealed himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Candice climbs down some steps.",
+      "ungrammatical": "Candice climb down some steps.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Clyde hadn't noticed himself.",
+      "ungrammatical": "Clyde hadn't noticed itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "That fork aggravates this university.",
+      "ungrammatical": "That fork aggravates this universities.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Melissa can exit these grocery stores.",
+      "ungrammatical": "Melissa can exit this grocery stores.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "John disliked himself.",
+      "ungrammatical": "John disliked itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "All lakes don't astound those legislatures.",
+      "ungrammatical": "All lakes don't astound those legislature.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Brett hadn't revealed himself.",
+      "ungrammatical": "Brett hadn't revealed herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The guy flees from Carla.",
+      "ungrammatical": "The guys flees from Carla.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Kendra does hide this rug.",
+      "ungrammatical": "Kendra does hide this rugs.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "A lot of people reveal these chairs.",
+      "ungrammatical": "A lot of people reveal this chairs.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Christopher upset himself.",
+      "ungrammatical": "Christopher upset itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Valerie will reference that book.",
+      "ungrammatical": "Valerie will reference those book.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Julia hasn't irritated this legislature.",
+      "ungrammatical": "Julia hasn't irritated these legislature.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The senators scan this documentary.",
+      "ungrammatical": "The senator scan this documentary.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Joel escaped from himself.",
+      "ungrammatical": "Joel escaped from themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Alice boasted about that teacher.",
+      "ungrammatical": "Alice boasted about those teacher.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Tammy has broken this cup.",
+      "ungrammatical": "Tammy has broken this cups.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Most reports were shocking Andrea.",
+      "ungrammatical": "Most reports is shocking Andrea.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Samantha was hugging herself.",
+      "ungrammatical": "Samantha was hugging himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Keith hadn't researched this movie.",
+      "ungrammatical": "Keith hadn't researched these movie.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Becky cured those senators.",
+      "ungrammatical": "Becky cured those senator.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The couches aren't cracking.",
+      "ungrammatical": "The couch aren't cracking.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Chad is admiring himself.",
+      "ungrammatical": "Chad is admiring itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The dancer hugs Jane.",
+      "ungrammatical": "The dancers hugs Jane.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Claire has researched that print.",
+      "ungrammatical": "Claire has researched that prints.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Gerald disturbs Roger.",
+      "ungrammatical": "Gerald disturb Roger.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "That company dislikes this lady.",
+      "ungrammatical": "That company dislikes this ladies.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Amelia watches herself.",
+      "ungrammatical": "Amelia watches itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Some essay doesn't disagree with itself.",
+      "ungrammatical": "Some essay doesn't disagree with himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Lawrence had thought about himself.",
+      "ungrammatical": "Lawrence had thought about themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The doctor hasn't gotten fired.",
+      "ungrammatical": "The doctors hasn't gotten fired.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The senators watch Kristin.",
+      "ungrammatical": "The senator watch Kristin.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The museum annoys all children.",
+      "ungrammatical": "The museums annoys all children.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The teachers think about every art gallery.",
+      "ungrammatical": "The teacher think about every art gallery.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Theresa bought this drawing.",
+      "ungrammatical": "Theresa bought this drawings.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Theodore boasted about himself.",
+      "ungrammatical": "Theodore boasted about herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "That teacher revealed these teachers.",
+      "ungrammatical": "That teacher revealed these teacher.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Homer astounded himself.",
+      "ungrammatical": "Homer astounded themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Kristin can't love herself.",
+      "ungrammatical": "Kristin can't love himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Sherry will fire these actresses.",
+      "ungrammatical": "Sherry will fire these actress.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Laurie revealed this grocery store.",
+      "ungrammatical": "Laurie revealed these grocery store.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The association hates Melinda.",
+      "ungrammatical": "The associations hates Melinda.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Cheryl has messed up that dish.",
+      "ungrammatical": "Cheryl has messed up those dish.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "George wasn't hurting himself.",
+      "ungrammatical": "George wasn't hurting itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Gerald is wearing some shirt.",
+      "ungrammatical": "Gerald were wearing some shirt.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Joseph notices himself.",
+      "ungrammatical": "Joseph notices itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Brad wasn't arriving at this high school.",
+      "ungrammatical": "Brad wasn't arriving at these high school.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The organization has interacted.",
+      "ungrammatical": "The organizations has interacted.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The guests aren't cooking.",
+      "ungrammatical": "The guest aren't cooking.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The committees listen to Elaine.",
+      "ungrammatical": "The committee listen to Elaine.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Brian sees those horses.",
+      "ungrammatical": "Brian sees those horse.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Gerald researches that hospital.",
+      "ungrammatical": "Gerald researches that hospitals.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Brad thought about these blouses.",
+      "ungrammatical": "Brad thought about these blouse.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Jane wouldn't clean that dog.",
+      "ungrammatical": "Jane wouldn't clean that dogs.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Donald heals Heather.",
+      "ungrammatical": "Donald heal Heather.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The committees admire those newspaper articles.",
+      "ungrammatical": "The committees admire that newspaper articles.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The teachers argue about those guys.",
+      "ungrammatical": "The teachers argue about those guy.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The waiter swallows.",
+      "ungrammatical": "The waiters swallows.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Thomas couldn't investigate himself.",
+      "ungrammatical": "Thomas couldn't investigate themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The government admires this unicycle.",
+      "ungrammatical": "The governments admires this unicycle.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The ladies fight.",
+      "ungrammatical": "The lady fight.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The blouse wasn't soaking.",
+      "ungrammatical": "The blouses wasn't soaking.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "These guys admired that school.",
+      "ungrammatical": "These guys admired that schools.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Anne hasn't respected herself.",
+      "ungrammatical": "Anne hasn't respected itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Alan criticizes Rhonda.",
+      "ungrammatical": "Alan criticize Rhonda.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Some children hadn't fixed these dishes.",
+      "ungrammatical": "Some children hadn't fixed this dishes.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Teresa researches most college campuses.",
+      "ungrammatical": "Teresa research most college campuses.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Candice isn't upsetting this adult.",
+      "ungrammatical": "Candice aren't upsetting this adult.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Matt hasn't hidden himself.",
+      "ungrammatical": "Matt hasn't hidden herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "John descends most stairs.",
+      "ungrammatical": "John descend most stairs.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Katherine visits herself.",
+      "ungrammatical": "Katherine visits himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Eva has upset this actor.",
+      "ungrammatical": "Eva has upset this actors.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Leslie skated around this art gallery.",
+      "ungrammatical": "Leslie skated around these art gallery.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Aaron references himself.",
+      "ungrammatical": "Aaron references itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Suzanne has hugged that patient.",
+      "ungrammatical": "Suzanne has hugged that patients.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The dancer was questioning Martha.",
+      "ungrammatical": "The dancers was questioning Martha.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "This government dislikes these guys.",
+      "ungrammatical": "This government dislikes these guy.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The doctor has left.",
+      "ungrammatical": "The doctors has left.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "That guy wasn't noticing Samuel.",
+      "ungrammatical": "That guy aren't noticing Samuel.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The Impressionists wear a sock.",
+      "ungrammatical": "The Impressionists wears a sock.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Roger would think about himself.",
+      "ungrammatical": "Roger would think about herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "That mushroom is annoying these cashiers.",
+      "ungrammatical": "That mushroom is annoying these cashier.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Keith lifts planes.",
+      "ungrammatical": "Keith lift planes.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Tiffany hadn't distracted this patient.",
+      "ungrammatical": "Tiffany hadn't distracted this patients.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "These committees listen to these doctors.",
+      "ungrammatical": "These committees listen to this doctors.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Andrea hired herself.",
+      "ungrammatical": "Andrea hired themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Some cashiers talk about themselves.",
+      "ungrammatical": "Some cashiers talk about himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Larry has concealed many wheelbarrows.",
+      "ungrammatical": "Larry have concealed many wheelbarrows.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Those students remember Carolyn.",
+      "ungrammatical": "Those students remembers Carolyn.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The Clintons hate every person.",
+      "ungrammatical": "The Clintons hates every person.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "A lot of skateboards stun that cashier.",
+      "ungrammatical": "A lot of skateboards stun that cashiers.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "These actors boycott a lot of public parks.",
+      "ungrammatical": "These actors boycotts a lot of public parks.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The schools chat.",
+      "ungrammatical": "The school chat.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "This legislature wouldn't help that teenager.",
+      "ungrammatical": "This legislature wouldn't help that teenagers.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Erin talks about this library.",
+      "ungrammatical": "Erin talks about this libraries.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Some museum discusses this cafe.",
+      "ungrammatical": "Some museum discusses these cafe.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Allison doesn't watch this actor.",
+      "ungrammatical": "Allison doesn't watch these actor.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The actors criticize these waitresses.",
+      "ungrammatical": "The actors criticize these waitress.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The guy isn't exploring Harvard University.",
+      "ungrammatical": "The guys isn't exploring Harvard University.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Vanessa discovers these drawings.",
+      "ungrammatical": "Vanessa discovers these drawing.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "That cat had bored those ladies.",
+      "ungrammatical": "That cat had bored those lady.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Brad is lifting that shawl.",
+      "ungrammatical": "Brad is lifting those shawl.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The girls appear.",
+      "ungrammatical": "The girl appear.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The pedestrians are screaming.",
+      "ungrammatical": "The pedestrian are screaming.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "George had bothered himself.",
+      "ungrammatical": "George had bothered themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The girls hate George.",
+      "ungrammatical": "The girl hate George.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Kristin leaves Monica.",
+      "ungrammatical": "Kristin leave Monica.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Donald wasn't bringing those grocery stores.",
+      "ungrammatical": "Donald aren't bringing those grocery stores.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Beverly shouldn't care for herself.",
+      "ungrammatical": "Beverly shouldn't care for itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Roger insulted himself.",
+      "ungrammatical": "Roger insulted themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "A lot of hats aggravate that legislature.",
+      "ungrammatical": "A lot of hats aggravate that legislatures.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Those adults work with these patients.",
+      "ungrammatical": "Those adults works with these patients.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Harvard University didn't hate this adult.",
+      "ungrammatical": "Harvard University didn't hate this adults.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Mary hides herself.",
+      "ungrammatical": "Mary hides himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "All gloves had hurt these customers.",
+      "ungrammatical": "All gloves had hurt these customer.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Kirsten stunned that actor.",
+      "ungrammatical": "Kirsten stunned that actors.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Roger does complain about himself.",
+      "ungrammatical": "Roger does complain about themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Gerald cleans that scarf.",
+      "ungrammatical": "Gerald cleans that scarves.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Teenagers were working with themselves.",
+      "ungrammatical": "Teenagers were working with itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Most ladies hide that painting.",
+      "ungrammatical": "Most ladies hide those painting.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Couches resemble some drawing.",
+      "ungrammatical": "Couches resembles some drawing.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Every cat could worry that hospital.",
+      "ungrammatical": "Every cat could worry that hospitals.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Carlos fired that waitress.",
+      "ungrammatical": "Carlos fired that waitresses.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "These men kiss themselves.",
+      "ungrammatical": "These men kiss herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Travis explores a closet.",
+      "ungrammatical": "Travis explore a closet.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The doctors haven't met.",
+      "ungrammatical": "The doctor haven't met.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Every woman boycotted those high schools.",
+      "ungrammatical": "Every woman boycotted those high school.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The drivers are bringing skateboards.",
+      "ungrammatical": "The driver are bringing skateboards.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The blouse wastes away.",
+      "ungrammatical": "The blouses wastes away.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The movie theaters appear.",
+      "ungrammatical": "The movie theater appear.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Guy bothered himself.",
+      "ungrammatical": "Guy bothered themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Those hats didn't look like those drawings.",
+      "ungrammatical": "Those hats didn't look like that drawings.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Cindy conceals herself.",
+      "ungrammatical": "Cindy conceals itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Rachelle had bought that chair.",
+      "ungrammatical": "Rachelle had bought that chairs.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The actresses were exercising.",
+      "ungrammatical": "The actress were exercising.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The birds haven't confused Heidi.",
+      "ungrammatical": "The bird haven't confused Heidi.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Rose is exiting this bank.",
+      "ungrammatical": "Rose is exiting this banks.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The teacher has seen most boys.",
+      "ungrammatical": "The teachers has seen most boys.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Many customers aren't talking to Vincent.",
+      "ungrammatical": "Many customers wasn't talking to Vincent.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The teachers are cleaning a cup.",
+      "ungrammatical": "The teacher are cleaning a cup.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Some ladies aren't worrying themselves.",
+      "ungrammatical": "Some ladies aren't worrying herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Many guests describe Amanda.",
+      "ungrammatical": "Many guests describes Amanda.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The doctor forgets Sheila.",
+      "ungrammatical": "The doctors forgets Sheila.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "A lot of waitresses complained about themselves.",
+      "ungrammatical": "A lot of waitresses complained about himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "This driver was thinking about many malls.",
+      "ungrammatical": "This driver were thinking about many malls.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "A waitress might reveal this report.",
+      "ungrammatical": "A waitress might reveal these report.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The teachers pass a hill.",
+      "ungrammatical": "The teachers passes a hill.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "All museums weren't embarrassing Natalie.",
+      "ungrammatical": "All museums isn't embarrassing Natalie.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Carl wouldn't buy this glass.",
+      "ungrammatical": "Carl wouldn't buy this glasses.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Jason should investigate these boys.",
+      "ungrammatical": "Jason should investigate these boy.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Most drivers care for those boys.",
+      "ungrammatical": "Most drivers care for that boys.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The dancer hasn't arrived at the mountains.",
+      "ungrammatical": "The dancers hasn't arrived at the mountains.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Rodney has discovered those shoes.",
+      "ungrammatical": "Rodney has discovered that shoes.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "April has hired herself.",
+      "ungrammatical": "April has hired himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "A lot of waiters conceal that senator.",
+      "ungrammatical": "A lot of waiters conceal that senators.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The actors compromise.",
+      "ungrammatical": "The actor compromise.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The teachers disturb themselves.",
+      "ungrammatical": "The teachers disturb himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Janice hadn't shocked herself.",
+      "ungrammatical": "Janice hadn't shocked itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Melinda fired this customer.",
+      "ungrammatical": "Melinda fired this customers.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Joseph might notice those shirts.",
+      "ungrammatical": "Joseph might notice that shirts.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Caroline boasts about herself.",
+      "ungrammatical": "Caroline boasts about itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Many doctors arrive at those art galleries.",
+      "ungrammatical": "Many doctors arrive at that art galleries.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Leslie was cleaning these movie theaters.",
+      "ungrammatical": "Leslie was cleaning this movie theaters.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Those guests bike to this school.",
+      "ungrammatical": "Those guests bike to this schools.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Barbara isn't hugging those patients.",
+      "ungrammatical": "Barbara isn't hugging that patients.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The actress hasn't come here.",
+      "ungrammatical": "The actresses hasn't come here.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The ladies are leaving themselves.",
+      "ungrammatical": "The ladies are leaving herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Colleen hasn't fixed those chairs.",
+      "ungrammatical": "Colleen hasn't fixed that chairs.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Bill can reference himself.",
+      "ungrammatical": "Bill can reference themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Claire had cleaned that picture.",
+      "ungrammatical": "Claire had cleaned that pictures.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Theodore shouldn't argue about this commentary.",
+      "ungrammatical": "Theodore shouldn't argue about these commentary.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The shirt dries.",
+      "ungrammatical": "The shirts dries.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Jessica is scaring herself.",
+      "ungrammatical": "Jessica is scaring themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Ella hasn't healed that boy.",
+      "ungrammatical": "Ella hasn't healed that boys.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Lucille was noticing those cashiers.",
+      "ungrammatical": "Lucille was noticing that cashiers.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "All spotlights irritate this patient.",
+      "ungrammatical": "All spotlights irritate these patient.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Linda has sounded like many teachers.",
+      "ungrammatical": "Linda have sounded like many teachers.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Guy wears these shoes.",
+      "ungrammatical": "Guy wears this shoes.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Tara was impressing herself.",
+      "ungrammatical": "Tara was impressing himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The boys buy every cup.",
+      "ungrammatical": "The boy buy every cup.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Brad had hidden himself.",
+      "ungrammatical": "Brad had hidden herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Angela was worrying that museum.",
+      "ungrammatical": "Angela was worrying those museum.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Patricia hadn't hated herself.",
+      "ungrammatical": "Patricia hadn't hated themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Those actresses discuss Steve.",
+      "ungrammatical": "Those actresses discusses Steve.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Some driver found those books.",
+      "ungrammatical": "Some driver found that books.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Many fish can't look like this picture.",
+      "ungrammatical": "Many fish can't look like this pictures.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Sabrina isn't boycotting the lake.",
+      "ungrammatical": "Sabrina aren't boycotting the lake.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Tara is scaring Aaron.",
+      "ungrammatical": "Tara are scaring Aaron.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The actresses climb up every hill.",
+      "ungrammatical": "The actress climb up every hill.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The drivers weren't touring this movie theater.",
+      "ungrammatical": "The driver weren't touring this movie theater.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Carmen isn't boasting about this story.",
+      "ungrammatical": "Carmen isn't boasting about this stories.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Colleen wasn't visiting herself.",
+      "ungrammatical": "Colleen wasn't visiting itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Eva would flee from these children.",
+      "ungrammatical": "Eva would flee from these child.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Nicole irritated herself.",
+      "ungrammatical": "Nicole irritated himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Prints were distracting Julie.",
+      "ungrammatical": "Prints is distracting Julie.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Some school isn't helping these pedestrians.",
+      "ungrammatical": "Some school isn't helping these pedestrian.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Ruth heals herself.",
+      "ungrammatical": "Ruth heals itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Rodney had visited himself.",
+      "ungrammatical": "Rodney had visited herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Maria talks to herself.",
+      "ungrammatical": "Maria talks to itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Daniel isn't revealing himself.",
+      "ungrammatical": "Daniel isn't revealing themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Those ladies remember those reports.",
+      "ungrammatical": "Those ladies remember those report.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "A lot of ladies impressed themselves.",
+      "ungrammatical": "A lot of ladies impressed itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Some children bike to some museum.",
+      "ungrammatical": "Some children bikes to some museum.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The bird bores Curtis.",
+      "ungrammatical": "The birds bores Curtis.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Heather attacks that teenager.",
+      "ungrammatical": "Heather attacks those teenager.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Many teenagers describe themselves.",
+      "ungrammatical": "Many teenagers describe himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The cashiers haven't testified.",
+      "ungrammatical": "The cashier haven't testified.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The reports have scared George.",
+      "ungrammatical": "The report have scared George.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "April sounded like herself.",
+      "ungrammatical": "April sounded like themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Heidi has distracted herself.",
+      "ungrammatical": "Heidi has distracted themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "These pedestrians hug this dancer.",
+      "ungrammatical": "These pedestrians hug these dancer.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Samuel hugs Liam.",
+      "ungrammatical": "Samuel hug Liam.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Cynthia wasn't escaping from herself.",
+      "ungrammatical": "Cynthia wasn't escaping from themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The coats unfold.",
+      "ungrammatical": "The coat unfold.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The pedestrian has watched Tamara.",
+      "ungrammatical": "The pedestrians has watched Tamara.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "All senators haven't impressed themselves.",
+      "ungrammatical": "All senators haven't impressed itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Chad has criticized Larry.",
+      "ungrammatical": "Chad have criticized Larry.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Beverly has investigated herself.",
+      "ungrammatical": "Beverly has investigated itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Some adults had watched these children.",
+      "ungrammatical": "Some adults had watched these child.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Roger should dislike himself.",
+      "ungrammatical": "Roger should dislike itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "David discussed these movie theaters.",
+      "ungrammatical": "David discussed this movie theaters.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Tonya was distracting the Borgias.",
+      "ungrammatical": "Tonya were distracting the Borgias.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Benjamin isn't praising these cashiers.",
+      "ungrammatical": "Benjamin isn't praising these cashier.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Most pedestrians didn't visit themselves.",
+      "ungrammatical": "Most pedestrians didn't visit itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Claire sees these teenagers.",
+      "ungrammatical": "Claire sees this teenagers.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "That legislature stuns itself.",
+      "ungrammatical": "That legislature stuns themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Karen hadn't loved those books.",
+      "ungrammatical": "Karen hadn't loved those book.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "George has skated around these art galleries.",
+      "ungrammatical": "George have skated around these art galleries.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Carlos should embarrass himself.",
+      "ungrammatical": "Carlos should embarrass itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The associations haven't helped all guests.",
+      "ungrammatical": "The association haven't helped all guests.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Sandra respected herself.",
+      "ungrammatical": "Sandra respected themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Sherry was selling those hamsters.",
+      "ungrammatical": "Sherry was selling that hamsters.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Timothy should cure himself.",
+      "ungrammatical": "Timothy should cure themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Heidi is approaching Timothy.",
+      "ungrammatical": "Heidi were approaching Timothy.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "All drivers reveal those drivers.",
+      "ungrammatical": "All drivers reveal that drivers.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Some cashier would buy this blouse.",
+      "ungrammatical": "Some cashier would buy these blouse.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Heather has embarrassed herself.",
+      "ungrammatical": "Heather has embarrassed himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Tina had cured herself.",
+      "ungrammatical": "Tina had cured itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Janet discovers Lissa.",
+      "ungrammatical": "Janet discover Lissa.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The actresses lie.",
+      "ungrammatical": "The actress lie.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Phillip wasn't embarrassing this government.",
+      "ungrammatical": "Phillip wasn't embarrassing this governments.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "That customer has described Lissa.",
+      "ungrammatical": "That customer have described Lissa.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The cashiers have fixed some mirror.",
+      "ungrammatical": "The cashier have fixed some mirror.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The woman had worried herself.",
+      "ungrammatical": "The woman had worried themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Many cashiers fire Julie.",
+      "ungrammatical": "Many cashiers fires Julie.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The Borgias shocks Elaine.",
+      "ungrammatical": "The Borgias shock Elaine.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Tonya shouldn't think about these high schools.",
+      "ungrammatical": "Tonya shouldn't think about this high schools.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Natalie hates Dawn.",
+      "ungrammatical": "Natalie hate Dawn.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Todd cleans many forks.",
+      "ungrammatical": "Todd clean many forks.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The boy exits the museums.",
+      "ungrammatical": "The boys exits the museums.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The dishes weren't shattering.",
+      "ungrammatical": "The dish weren't shattering.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The actresses flee from Alicia.",
+      "ungrammatical": "The actress flee from Alicia.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Wendy had toured these high schools.",
+      "ungrammatical": "Wendy had toured this high schools.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "This government alarms itself.",
+      "ungrammatical": "This government alarms themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Those stairs astound this guest.",
+      "ungrammatical": "Those stairs astound these guest.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The Borgias haven't approached themselves.",
+      "ungrammatical": "The Borgias haven't approached herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Most cashiers have distracted themselves.",
+      "ungrammatical": "Most cashiers have distracted himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Beth hasn't boycotted some association.",
+      "ungrammatical": "Beth haven't boycotted some association.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Many pedestrians lifted those movie theaters.",
+      "ungrammatical": "Many pedestrians lifted that movie theaters.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The adult visits an actress.",
+      "ungrammatical": "The adults visits an actress.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Kirsten hasn't admired herself.",
+      "ungrammatical": "Kirsten hasn't admired themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Judy isn't boring Charles.",
+      "ungrammatical": "Judy weren't boring Charles.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Many waitresses attacked themselves.",
+      "ungrammatical": "Many waitresses attacked itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Carla should think about herself.",
+      "ungrammatical": "Carla should think about itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The customers run around those hills.",
+      "ungrammatical": "The customer run around those hills.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The students shouldn't upset themselves.",
+      "ungrammatical": "The students shouldn't upset herself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Caroline didn't like herself.",
+      "ungrammatical": "Caroline didn't like itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Irene had bored herself.",
+      "ungrammatical": "Irene had bored themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Some actresses haven't brought all forks.",
+      "ungrammatical": "Some actresses hasn't brought all forks.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Every book isn't stunning these banks.",
+      "ungrammatical": "Every book isn't stunning these bank.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Carmen isn't talking to herself.",
+      "ungrammatical": "Carmen isn't talking to himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Melanie admires the books.",
+      "ungrammatical": "Melanie admire the books.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Marla notices that cup.",
+      "ungrammatical": "Marla notices that cups.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Carolyn worked with herself.",
+      "ungrammatical": "Carolyn worked with itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Kenneth had embarrassed himself.",
+      "ungrammatical": "Kenneth had embarrassed themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The students scan those documentaries.",
+      "ungrammatical": "The students scan those documentary.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Guy hadn't left himself.",
+      "ungrammatical": "Guy hadn't left themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Marcus wasn't attacking Bruce.",
+      "ungrammatical": "Marcus aren't attacking Bruce.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Christopher has run around the river.",
+      "ungrammatical": "Christopher have run around the river.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The glasses tip over.",
+      "ungrammatical": "The glass tip over.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Joseph respects those art galleries.",
+      "ungrammatical": "Joseph respects that art galleries.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Associations hire Lori.",
+      "ungrammatical": "Associations hires Lori.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The boy wears the shawl.",
+      "ungrammatical": "The boys wears the shawl.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Chad fired himself.",
+      "ungrammatical": "Chad fired themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Roger had known himself.",
+      "ungrammatical": "Roger had known herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "This snake wasn't breaking this dish.",
+      "ungrammatical": "This snake wasn't breaking these dish.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Derek wasn't describing himself.",
+      "ungrammatical": "Derek wasn't describing herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The committee talks about some malls.",
+      "ungrammatical": "The committees talks about some malls.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Janice complained about herself.",
+      "ungrammatical": "Janice complained about itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Brett runs around this restaurant.",
+      "ungrammatical": "Brett runs around this restaurants.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Theresa shouldn't disgust herself.",
+      "ungrammatical": "Theresa shouldn't disgust himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The customer investigates Edward.",
+      "ungrammatical": "The customers investigates Edward.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "April is observing that adult.",
+      "ungrammatical": "April is observing that adults.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Christine boasts about these movies.",
+      "ungrammatical": "Christine boasts about this movies.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The Clintons disgusts Brian.",
+      "ungrammatical": "The Clintons disgust Brian.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Andrew hasn't messed up these cafes.",
+      "ungrammatical": "Andrew hasn't messed up this cafes.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Alice has distracted herself.",
+      "ungrammatical": "Alice has distracted himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "All drivers haven't insulted themselves.",
+      "ungrammatical": "All drivers haven't insulted itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Lawrence had boasted about himself.",
+      "ungrammatical": "Lawrence had boasted about herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Timothy can't leave those guys.",
+      "ungrammatical": "Timothy can't leave those guy.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The girls reveal this guest.",
+      "ungrammatical": "The girl reveal this guest.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Most waitresses wouldn't sound like themselves.",
+      "ungrammatical": "Most waitresses wouldn't sound like himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "The doctors know these guys.",
+      "ungrammatical": "The doctors know this guys.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Tracy isn't upsetting herself.",
+      "ungrammatical": "Tracy isn't upsetting itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "All adults thought about themselves.",
+      "ungrammatical": "All adults thought about himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Heidi hasn't bought that mouth.",
+      "ungrammatical": "Heidi haven't bought that mouth.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Chad wasn't working with himself.",
+      "ungrammatical": "Chad wasn't working with themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "All cashiers bother that school.",
+      "ungrammatical": "All cashiers bother that schools.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Samantha hasn't known herself.",
+      "ungrammatical": "Samantha hasn't known himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Derek remembers himself.",
+      "ungrammatical": "Derek remembers itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "The patient wasn't donating.",
+      "ungrammatical": "The patients wasn't donating.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Liam hadn't returned to himself.",
+      "ungrammatical": "Liam hadn't returned to herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Many companies help this guest.",
+      "ungrammatical": "Many companies help this guests.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The bank has forfeited.",
+      "ungrammatical": "The banks has forfeited.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The actress has known Theodore.",
+      "ungrammatical": "The actresses has known Theodore.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Liam worked with himself.",
+      "ungrammatical": "Liam worked with itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Carrie didn't hide herself.",
+      "ungrammatical": "Carrie didn't hide itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Katherine can't help herself.",
+      "ungrammatical": "Katherine can't help himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Julia wasn't appreciating Jodi.",
+      "ungrammatical": "Julia weren't appreciating Jodi.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The senators cook.",
+      "ungrammatical": "The senator cook.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The senator hasn't revealed Keith.",
+      "ungrammatical": "The senators hasn't revealed Keith.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Carrie complains about this essay.",
+      "ungrammatical": "Carrie complains about this essays.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "This actor forgets this story.",
+      "ungrammatical": "This actor forgets this stories.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Rachelle listens to Teresa.",
+      "ungrammatical": "Rachelle listen to Teresa.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The actors have praised April.",
+      "ungrammatical": "The actor have praised April.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Sheila had exited this high school.",
+      "ungrammatical": "Sheila had exited these high school.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Danielle sells a bird.",
+      "ungrammatical": "Danielle sell a bird.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Anne was returning to these guys.",
+      "ungrammatical": "Anne was returning to these guy.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The patients aren't finding Samuel.",
+      "ungrammatical": "The patient aren't finding Samuel.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Michelle listens to this pedestrian.",
+      "ungrammatical": "Michelle listens to this pedestrians.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Many students kiss Frank.",
+      "ungrammatical": "Many students kisses Frank.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The Impressionists talk to Cynthia.",
+      "ungrammatical": "The Impressionists talks to Cynthia.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The teacher runs around all hospitals.",
+      "ungrammatical": "The teachers runs around all hospitals.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Kenneth insulted himself.",
+      "ungrammatical": "Kenneth insulted itself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Erin hasn't taken some hill.",
+      "ungrammatical": "Erin haven't taken some hill.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Bruce can drive to those high schools.",
+      "ungrammatical": "Bruce can drive to that high schools.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "The Impressionists couldn't listen to themselves.",
+      "ungrammatical": "The Impressionists couldn't listen to himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Bradley sees Kevin.",
+      "ungrammatical": "Bradley see Kevin.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The student examines a lot of plays.",
+      "ungrammatical": "The students examines a lot of plays.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "The dancer talks about Kirsten.",
+      "ungrammatical": "The dancers talks about Kirsten.",
+      "phenomenon": "regular_plural_subject_verb_agreement_2"
+    },
+    {
+      "grammatical": "Elizabeth shouldn't argue about herself.",
+      "ungrammatical": "Elizabeth shouldn't argue about himself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Tammy hated these doctors.",
+      "ungrammatical": "Tammy hated these doctor.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Rodney wasn't alarming Heather.",
+      "ungrammatical": "Rodney weren't alarming Heather.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The waitresses investigated themselves.",
+      "ungrammatical": "The waitresses investigated itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Alan kisses himself.",
+      "ungrammatical": "Alan kisses herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Kendra might shock herself.",
+      "ungrammatical": "Kendra might shock themselves.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Many customers wouldn't bother themselves.",
+      "ungrammatical": "Many customers wouldn't bother himself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Wendy drove to this college campus.",
+      "ungrammatical": "Wendy drove to this college campuses.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "Joseph describes himself.",
+      "ungrammatical": "Joseph describes herself.",
+      "phenomenon": "anaphor_gender_agreement"
+    },
+    {
+      "grammatical": "Katherine was appreciating these grocery stores.",
+      "ungrammatical": "Katherine was appreciating these grocery store.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "All dancers drive to these malls.",
+      "ungrammatical": "All dancers drive to this malls.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Theodore sounds like Rachelle.",
+      "ungrammatical": "Theodore sound like Rachelle.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "The Impressionists observe these waitresses.",
+      "ungrammatical": "The Impressionists observe this waitresses.",
+      "phenomenon": "determiner_noun_agreement_2"
+    },
+    {
+      "grammatical": "Lucille questions Candice.",
+      "ungrammatical": "Lucille question Candice.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "Some guys are disagreeing with these essays.",
+      "ungrammatical": "Some guys are disagreeing with these essay.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "The Lutherans observed themselves.",
+      "ungrammatical": "The Lutherans observed itself.",
+      "phenomenon": "anaphor_number_agreement"
+    },
+    {
+      "grammatical": "Craig drops by these cafes.",
+      "ungrammatical": "Craig drops by these cafe.",
+      "phenomenon": "determiner_noun_agreement_1"
+    },
+    {
+      "grammatical": "That scarf impresses Lisa.",
+      "ungrammatical": "That scarf impress Lisa.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    },
+    {
+      "grammatical": "A lot of pedestrians were disturbing Diane.",
+      "ungrammatical": "A lot of pedestrians was disturbing Diane.",
+      "phenomenon": "regular_plural_subject_verb_agreement_1"
+    }
+  ],
+  "metadata": {
+    "num_pairs": 1000,
+    "phenomena": [
+      "regular_plural_subject_verb_agreement_2",
+      "anaphor_gender_agreement",
+      "determiner_noun_agreement_1",
+      "determiner_noun_agreement_2",
+      "anaphor_number_agreement",
+      "regular_plural_subject_verb_agreement_1"
+    ]
+  }
+}

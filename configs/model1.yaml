@@ -1,0 +1,23 @@
+model_name: babylm_model_small
+model:
+  vocab_size: 8000  # Reduced for faster training
+  hidden_size: 64   # Reduced for faster training
+  num_hidden_layers: 2  # Reduced for faster training
+  intermediate_size: 64  # Reduced for faster training
+  num_attention_heads: 2  # Reduced for faster training
+  max_position_embeddings: 64
+  context_length: 32
+tokenizer:
+  vocab_size: 8000
+data:
+  train_files: /Users/mustafaerdogan/Desktop/NLPLab/data/raw/train_small.txt  # 2MB dataset
+  eval_files: /Users/mustafaerdogan/Desktop/NLPLab/data/raw/eval_small.txt
+training:
+  seed: 42
+  num_train_epochs: 50  # Reduced from 1000 for faster training
+  gradient_accumulation_steps: 4
+  per_device_train_batch_size: 32
+  warmup_steps: 100
+  lr_scheduler_type: cosine
+  learning_rate: 0.0003
+  logging_steps: 10

@@ -1,0 +1,23 @@
+model_name: babylm_model_large
+model:
+  vocab_size: 10000  # Slightly larger than Model1 (8000), but not 2x
+  hidden_size: 96    # 1.5x Model1's hidden size
+  num_hidden_layers: 3  # 1.5x Model1's layers
+  intermediate_size: 96  # Match hidden size
+  num_attention_heads: 3  # One head per layer
+  max_position_embeddings: 128
+  context_length: 64
+tokenizer:
+  vocab_size: 10000  # Match model vocab_size
+data:
+  train_files: /Users/mustafaerdogan/Desktop/NLPLab/data/raw/train_large.txt  # 4MB dataset
+  eval_files: /Users/mustafaerdogan/Desktop/NLPLab/data/raw/eval_large.txt
+training:
+  seed: 42
+  num_train_epochs: 50
+  gradient_accumulation_steps: 4
+  per_device_train_batch_size: 32
+  warmup_steps: 100
+  lr_scheduler_type: cosine
+  learning_rate: 0.0003
+  logging_steps: 10

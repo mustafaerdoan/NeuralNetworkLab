@@ -87,11 +87,6 @@ python src/evaluate.py --model_path models/babylm_model_large/final --eval_data 
 python src/plot_comparison.py --model1_results results/model1_evaluation.json --model2_results results/model2_evaluation.json --output_file results/model_comparison.png
 ```
 
-Notes:
-- Apple Silicon is supported (MPS) out of the box in `train.py` and `evaluate.py`.
-- We disabled external logging (no wandb login needed).
-
-## Submission & hosting
 
 Recommended upload targets:
 

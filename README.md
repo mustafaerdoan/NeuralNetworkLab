@@ -105,7 +105,7 @@ model = LlamaForCausalLM.from_pretrained("<your-hf-username>/babylm-model-small"
 tokenizer = AutoTokenizer.from_pretrained("<your-hf-username>/babylm-model-small")
 ```
 
-## Repro checklist for the lecturer
+## Repro checklist 
 1. Clone the GitHub repo and `cd` into it.
 2. Create venv and `pip install -r requirements.txt`.
 3. (Skip if using prebuilt data) Run the optional data prep commands above.

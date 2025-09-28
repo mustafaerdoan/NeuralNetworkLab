@@ -114,3 +114,9 @@ tokenizer = AutoTokenizer.from_pretrained("<your-hf-username>/babylm-model-small
 6. Open `results/model_comparison.png` and the JSONs; read `report.pdf`.
 
 If anything fails, please check Python 3.10+, `torch>=2.0`, `transformers>=4.30`, and that the dataset download is allowed by your network.
+
+
+--Models On HugginFace
+Small model "https://huggingface.co/merdoan/modelsem"
+Large model "https://huggingface.co/merdoan/modelarge"
+Github repo "https://github.com/mustafaerdoan/NeuralNetworkLab"
